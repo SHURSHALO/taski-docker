@@ -110,7 +110,7 @@ USE_TZ = True
 
 STATIC_URL = '/static_backend/'
 # Укажите директорию, куда бэкенд-приложение должно сложить статику.
-STATIC_ROOT = BASE_DIR / 'static_backend' 
+STATIC_ROOT = BASE_DIR / 'static_backend'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
